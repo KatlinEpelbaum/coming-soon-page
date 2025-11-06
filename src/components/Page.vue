@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-white px-8 py-8 md:px-8 lg:px-16 ">
+  <div class=" bg-white px-8 py-8 md:px-8 lg:px-16 ">
     <div class="max-w-7xl mx-auto">
       <div class="flex flex-col lg:flex-row items-center justify-between gap-8 lg:gap-16 py-8 lg:py-10">
         
@@ -32,11 +32,11 @@
       </div>
     </div>
   </div>
-  <div class="lg:px-16 px-8 ">
+  <div class="xl:px-0 lg:px-16  px-8 max-w-7xl mx-auto">
   <h1 class="font-bold text-4xl mb-16">What we offer</h1>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
-    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition">
+  <div class="grid grid-cols-1 md:grid-cols-3 *:hover:shadow-lg *:hover:shadow-amber-500/20 *:duration-300 *:transition-shadow *:ease-in *:delay-50 gap-4 mb-4">
+    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition animate-fade-up">
       <div class="bg-[#FFDC9C]/41 w-12 h-12 flex items-center justify-center rounded-md">
         <img class="w-6 h-5 " src="/book.png" alt="">
       </div>
@@ -44,7 +44,7 @@
       <p class=" text-sm text-pretty">Keep a personal log of all the books you’ve read and movies you’ve watched. Never forget what you’ve enjoyed!</p>
     </div>
 
-    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition md:col-span-2">
+    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition md:col-span-2 animate-delay-100 animate-fade-up">
       <div class="bg-[#FFDC9C]/41 w-12 h-12 flex items-center justify-center rounded-md">
         <img class="w-6 h-5 " src="/gift.png" alt="">
       </div>
@@ -53,8 +53,8 @@
     </div>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-5 gap-4">
-    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white  transition md:col-span-1">
+  <div class="grid grid-cols-1 md:grid-cols-5 gap-4 *:hover:shadow-lg *:hover:shadow-amber-500/20 *:duration-300 *:transition-shadow *:ease-in *:delay-5">
+    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white  transition md:col-span-1 animate-delay-150 animate-fade-up">
       <div class="bg-[#FFDC9C]/41 w-12 h-12 flex items-center justify-center rounded-md">
         <img class="w-6 h-5 " src="/star.png" alt="">
       </div>
@@ -62,7 +62,7 @@
       <p class=" text-sm text-pretty">Give your favorite stories a rating and leave notes for yourself. Share your thoughts with friends if you want.</p>
     </div>
 
-    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white  transition md:col-span-2">
+    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white  transition md:col-span-2 animate-delay-200 animate-fade-up">
       <div class="bg-[#FFDC9C]/41 w-12 h-12 flex items-center justify-center rounded-md">
         <img class="w-6 h-5 " src="/progress.png" alt="">
       </div>
@@ -71,7 +71,7 @@
     </div>
 
     
-    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition md:col-span-2">
+    <div class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition md:col-span-2 animate-delay-250 animate-fade-up">
       <div class="bg-[#FFDC9C]/41 w-12 h-12 flex items-center justify-center rounded-md">
         <img class="w-6 h-5 " src="/search.png" alt="">
       </div>
@@ -83,14 +83,14 @@
 
   
 </div>
-<div class="lg:pl-16 lg:pr-0 px-8 py-32 ">
-    <div class="lg:flex gap-8 items-start">
+<div class="max-w-7xl mx-auto lg:pr-0 lg:pl-16 px-8 xl:px-0 py-32 ">
+    <div class="lg:flex gap-8 justify-center">
       
       <div class="mt-35 md:w-1/2">
         <h2 class="text-4xl font-bold mb-6">Any questions?</h2>
         <p class="text-lg">Ask us anything — we’d love to hear your thoughts<br> and answer your questions.</p>
       </div>
-      <div class="bg-[#CAAEFF] rounded-l-xl mt-24 lg:mt-0 py-20 p-5 md:w-1/2">
+      <div class="bg-[#CAAEFF] rounded-l-xl w-full mt-24 lg:mt-0 py-20 p-5 md:w-1/2">
         <div class="bg-white p-6 rounded-lg border shadow-sm ">
           <p class="text-lg mb-4">Contact us</p>
 
