@@ -1,5 +1,5 @@
 <template>
-  <nav>
+  <nav id="home">
     <div class="w-full mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-20">
         <div class="max-w-24 animate-fade-in-down">
@@ -11,16 +11,18 @@
         </div>
 
         <div class="hidden md:flex items-center space-x-2 text-lg">
-          <a 
-            href="#" 
+          <a
+            
+            href="#home" 
             class="relative px-4 py-2 text-gray-900 transition-all duration-300 hover:text-[#FF9B71] hover:-translate-y-1 group animate-fade-in-down animation-delay-100"
           >
             Home
             <span class="absolute left-1/2 -bottom-1 w-0 h-0.5 bg-[#FF9B71] transition-all duration-300 group-hover:w-4/5 group-hover:left-1/2 group-hover:-translate-x-1/2"></span>
           </a>
           <span class="text-orange-400 animate-pulse animation-delay-200">✷</span>
-          <a 
-            href="#" 
+          <a
+            
+            href="#features" 
             class="relative px-4 py-2 text-gray-900 transition-all duration-300 hover:text-[#FF9B71] hover:-translate-y-1 group animate-fade-in-down animation-delay-300"
           >
             Features
@@ -28,7 +30,7 @@
           </a>
           <span class="text-orange-400 animate-pulse animation-delay-400">✷</span>
           <a 
-            href="#" 
+            href="#contact-us" 
             class="relative px-4 py-2 text-gray-900 transition-all duration-300 hover:text-[#FF9B71] hover:-translate-y-1 group animate-fade-in-down animation-delay-500"
           >
             Contact Us
@@ -73,19 +75,19 @@
       class="md:hidden py-4 border-y-4 border-gray-200 animate-slide-in-down"
     >
       <a 
-        href="#" 
+        href="#home" 
         class="block px-4 py-3 text-gray-900 text-center transition-all duration-300 hover:bg-gray-50 hover:text-[#FF9B71] hover:pl-8 animate-fade-in animation-delay-100"
       >
         Home
       </a>
       <a 
-        href="#" 
+        href="#features" 
         class="block px-4 py-3 text-gray-900 text-center transition-all duration-300 hover:bg-gray-50 hover:text-[#FF9B71] hover:pl-8 animate-fade-in animation-delay-200"
       >
         Features
       </a>
       <a 
-        href="#" 
+        href="#contact-us" 
         class="block px-4 py-3 text-gray-900 text-center transition-all duration-300 hover:bg-gray-50 hover:text-[#FF9B71] hover:pl-8 animate-fade-in animation-delay-300"
       >
         Contact Us

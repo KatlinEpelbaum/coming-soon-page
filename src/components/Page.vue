@@ -15,11 +15,12 @@
           <p class="text-lg md:text-xl text-gray-700 mb-8 leading-relaxed">
             Discover, explore, and enjoy your favourite books, movies, and shows — all in one place.
           </p>
-
-          <button
-            class="bg-gray-800 hover:bg-gray-900 text-white px-8 py-3 rounded-md text-base font-medium transition-all duration-300 hover:scale-105 active:scale-95 hover:-translate-y-1 shadow-lg hover:shadow-xl">
-            Contact us
-        </button>
+        <a href="#contact">
+          <button     
+              class="bg-gray-800 hover:bg-gray-900 text-white px-8 py-3 rounded-md text-base font-medium transition-all duration-300 hover:scale-105 active:scale-95 hover:-translate-y-1 shadow-lg hover:shadow-xl">
+              Contact us
+          </button>
+        </a>
         </div>
         <div class="flex-1 flex justify-center lg:justify-end">
           <img src="/hero.webp" alt="Hero image" class="w-full max-w-md lg:max-w-sm object-cover" />
@@ -27,10 +28,10 @@
       </div>
     </div>
   </div>
-  <div class="lg:px-16  px-8 max-w-7xl mx-auto">
+  <div id="features" class="lg:px-16  px-8 max-w-7xl mx-auto">
     <h1 class="font-bold text-4xl mb-16">What we offer</h1>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 *:hover:shadow-lg *:hover:shadow-amber-500/20 *:duration-300 *:transition-shadow *:ease-in *:delay-50 gap-4 mb-4">
+  <div  class="grid grid-cols-1 md:grid-cols-3 *:hover:shadow-lg *:hover:shadow-amber-500/20 *:duration-300 *:transition-shadow *:ease-in *:delay-50 gap-4 mb-4">
     <div data-aos="fade-up" class="p-6 flex flex-col border rounded-xl gap-3 bg-white transition ">
       <div class="bg-[#FFDC9C]/41 w-12 h-12 flex items-center justify-center rounded-md">
         <img class="w-6 h-5 " src="/book.png" alt="">
@@ -78,8 +79,8 @@
 
 
   </div>
-  <div class="max-w-7xl mx-auto lg:pr-0 lg:pl-16 px-8  py-32 ">
-    <div class="lg:flex gap-8 justify-center">
+  <div id="contact-us" class="max-w-7xl mx-auto  lg:pr-0 lg:pl-16 px-8  py-32 overflow-hidden">
+    <div id="contact" class="lg:flex gap-8 justify-center overflow-hidden">
       <div class="mt-35 md:w-1/2">
         <h2 class="text-4xl font-bold mb-6">
           Any questions?
@@ -89,7 +90,7 @@
           and answer your questions.
         </p>
       </div>
-      <div data-aos="fade-left" class="bg-[#CAAEFF] rounded-l-xl w-full mt-24 lg:mt-0 py-20 p-5 md:w-1/2">
+      <div data-aos="fade-left" class="bg-[#CAAEFF]  rounded-l-xl w-full mt-24 lg:mt-0 py-20 p-5 md:w-1/2">
         <div class="bg-white p-6 rounded-lg border shadow-sm ">
           <p class="text-lg mb-4">Contact us</p>
 
