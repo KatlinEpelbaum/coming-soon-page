@@ -37,8 +37,8 @@ The project aims to provide a unified, clear, and user-friendly space for organi
 
 ## 📚 Lessons Learned 
 
-**Emily Selge** –  Learnt how to mentor others, vue animations, responsive design
-**Kätlin Epelbaum** – Learnt how to mentor others, reminded myself how to do animations aswell as email form.
+**Emily Selge** –  Learnt how to mentor others, vue animations, responsive design<br>
+**Kätlin Epelbaum** – Learnt how to mentor others, reminded myself how to do animations aswell as email form.<br>
 **Ragnar Õige** –  
 **Patricia Jõgi** –  
 **Anette Truupõld** –  
