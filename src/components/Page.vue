@@ -27,7 +27,7 @@
           <img
             src="/hero.webp"
             alt="Hero image"
-            class="w-full max-w-md lg:max-w-lg object-cover"
+            class="w-full max-w-md lg:max-w-sm object-cover"
           />
         </div>
       </div>
