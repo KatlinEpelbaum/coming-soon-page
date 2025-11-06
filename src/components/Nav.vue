@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="w-full mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-20">
         <div class="max-w-24">
           <img src="/logo.webp" alt="Logo" />
@@ -8,7 +8,7 @@
 
         <div class="hidden md:flex items-center space-x-2 text-lg">
           <a href="#" class="px-4 py-2 text-gray-900">Home</a>
-          <span class="text-orange-400">✷</span>
+          <span class="text-orange-400 ">✷</span>
           <a href="#" class="px-4 py-2 text-gray-900">Features</a>
           <span class="text-orange-400">✷</span>
           <a href="#" class="px-4 py-2 text-gray-900">Contact Us</a>
