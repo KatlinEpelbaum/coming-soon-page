@@ -79,7 +79,7 @@
 
 
   </div>
-  <div id="contact-us" class="max-w-7xl mx-auto  lg:pr-0 lg:pl-16 px-8  py-32 overflow-hidden">
+  <div id="contact-us" class="max-w-7xl mx-auto  lg:pr-0 lg:pl-16 px-8  py-20 overflow-hidden">
     <div id="contact" class="lg:flex gap-8 justify-center overflow-hidden">
       <div class="mt-35 md:w-1/2">
         <h2 class="text-4xl font-bold mb-6">
