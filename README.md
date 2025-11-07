@@ -43,7 +43,7 @@ The project aims to provide a unified, clear, and user-friendly space for organi
 
 **Kätlin Epelbaum** – Learnt how to mentor others, reminded myself how to do animations aswell as email form.<br>
 
-**Ragnar Õige** –  Got better in tailwind.
+**Ragnar Õige** –  Got better in tailwind and figma.
 
 **Patricia Jõgi** –  Learnt how to do team work with others. How projects work overall.
 
