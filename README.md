@@ -40,14 +40,15 @@ The project aims to provide a unified, clear, and user-friendly space for organi
 ## 📚 Lessons Learned 
 
 **Emily Selge** –  Learnt how to mentor others, vue animations, responsive design<br>
+
 **Kätlin Epelbaum** – Learnt how to mentor others, reminded myself how to do animations aswell as email form.<br>
+
 **Ragnar Õige** –  Got better in tailwind.
+
 **Patricia Jõgi** –  Learnt how to do team work with others. How projects work overall.
+
 **Anette Truupõld** –  I learnt coding, what is vue, figma features and how projects and dynamics in projects work.
 
-Each member should write 2–4 sentences describing:
-- What they learned,
-- What skills improved,
-- What role they enjoyed the most in the project.
+
 
 ---
