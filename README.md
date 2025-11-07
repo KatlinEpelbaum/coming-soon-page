@@ -1,5 +1,6 @@
 https://coming-soon-page-inky.vercel.app/
 
+https://www.figma.com/design/PqpTG9DzjhzXvEk4H6Moy3/coming-soon-page?node-id=0-1&p=f&t=STXlHOqfX5oqiGvt-0
 # Project Name: **LUNE**
 
 ## 🎯 Purpose
