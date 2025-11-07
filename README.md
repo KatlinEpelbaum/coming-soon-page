@@ -40,7 +40,7 @@ The project aims to provide a unified, clear, and user-friendly space for organi
 **Emily Selge** –  Learnt how to mentor others, vue animations, responsive design<br>
 **Kätlin Epelbaum** – Learnt how to mentor others, reminded myself how to do animations aswell as email form.<br>
 **Ragnar Õige** –  
-**Patricia Jõgi** –  
+**Patricia Jõgi** –  Learnt how to do team work with others. How projects work overall.
 **Anette Truupõld** –  
 
 Each member should write 2–4 sentences describing:
