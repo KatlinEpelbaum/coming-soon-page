@@ -43,7 +43,7 @@ The project aims to provide a unified, clear, and user-friendly space for organi
 **Kätlin Epelbaum** – Learnt how to mentor others, reminded myself how to do animations aswell as email form.<br>
 **Ragnar Õige** –  Got better in tailwind.
 **Patricia Jõgi** –  Learnt how to do team work with others. How projects work overall.
-**Anette Truupõld** –  
+**Anette Truupõld** –  I learnt coding, what is vue, figma features and how projects and dynamics in projects work.
 
 Each member should write 2–4 sentences describing:
 - What they learned,
